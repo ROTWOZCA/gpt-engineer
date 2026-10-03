@@ -19,3 +19,4 @@ pillow
 datasets
 black
 langchain-community
+gpt-engineer
